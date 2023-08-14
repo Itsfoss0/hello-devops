@@ -3,4 +3,4 @@ services:
   web:
     image: holberton-api:latest
     ports:
-      - "8000:5000"
+      - "8000-8004:5000"
